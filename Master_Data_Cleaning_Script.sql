@@ -99,41 +99,6 @@ FROM layoffs_staging2
 WHERE row_num > 1;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -- =============================
 -- STEP 2: Content from SQL_Script2.sql
 -- =============================
@@ -219,12 +184,6 @@ SELECT *
 FROM layoffs_staging2;
 
 
-
-
-
-
-
-
 -- =============================
 -- STEP 3: Content from SQL_Script3.sql
 -- =============================
@@ -293,21 +252,6 @@ AND t2.industry IS NOT NULL;
 SELECT *
 FROM layoffs_staging2
 WHERE company = 'Airbnb';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
