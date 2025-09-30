@@ -17,7 +17,7 @@ Each section of this portfolio highlights a different tool I’m learning and ap
 - Exploratory analysis: joins, grouping, aggregates  
 - Advanced features: CTEs, window functions  
 
-**Excel (in progress)**  
+**Excel**  
 - PivotTables & charts  
 - Lookup functions (VLOOKUP/XLOOKUP)  
 - Building dashboards for KPIs  
